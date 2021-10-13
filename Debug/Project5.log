@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\USERS\ANDY\DESKTOP\PROJECT5\PROJECT5\ZEDGRAPH_DLL_V5.1.5\ZEDGRAPH.DLL" is missing.
+cl : Command line warning D9024: unrecognized source file type 'C:\Users\andy\Desktop\Project5\Project5\zedgraph_dll_v5.1.5\ZedGraph.dll', object file assumed
+cl : Command line warning D9027: source file 'C:\Users\andy\Desktop\Project5\Project5\zedgraph_dll_v5.1.5\ZedGraph.dll' ignored
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Project5.vcxproj -> C:\Users\andy\Desktop\andy\Itmm\Nm\Project5\Project5\Debug\RK.exe
